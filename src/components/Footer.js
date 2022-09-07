@@ -8,21 +8,21 @@ const Footer = () => {
   return (
     <div className={classes.root}>
       <FormCard />
-      <img className={classes.logo} src="https://res.cloudinary.com/daalu/image/upload/v1650218497/Recursos_Dark/logo_hroazh.svg" alt='Logo' width='200px'/>
+      <img className={classes.logo} src="https://res.cloudinary.com/cortiz/image/upload/v1650218497/Recursos_Dark/logo_hroazh.svg" alt='Logo' width='200px'/>
       <div className={classes.contactContainer}>
         <div className={classes.contactNormal}>
         <div className={classes.contactBox}>
-        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218496/Recursos_Dark/icon-location_wfv1ix.svg" className={classes.icon} alt="location"/>
+        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218496/Recursos_Dark/icon-location_wfv1ix.svg" className={classes.icon} alt="location"/>
           <Typography>Lorem Ipsum dolor sit amet, consectetur adipiscing elit</Typography>
         </div>
           
         </div>
         <div className={classes.contactBox}>
-          <img src="https://res.cloudinary.com/daalu/image/upload/v1650218496/Recursos_Dark/icon-phone_t9iwt4.svg" className={classes.icon} alt="iconPhone"/>
+          <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218496/Recursos_Dark/icon-phone_t9iwt4.svg" className={classes.icon} alt="iconPhone"/>
           <Typography>Lorem Ipsum</Typography>
         </div>
         <div className={classes.contactBox}>
-          <img src="https://res.cloudinary.com/daalu/image/upload/v1650218496/Recursos_Dark/icon-email_jke1tf.svg" className={classes.icon} alt="iconEmail"/>
+          <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218496/Recursos_Dark/icon-email_jke1tf.svg" className={classes.icon} alt="iconEmail"/>
           <Typography>Lorem Ipsum</Typography>
         </div>
         <div className={classes.paginationBpx}>
