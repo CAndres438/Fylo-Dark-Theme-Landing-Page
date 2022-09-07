@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className={classes.root}>
         <div className={classes.container}>
-        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218497/Recursos_Dark/logo_hroazh.svg" alt='logo' className={classes.logo}/>
+        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218497/Recursos_Dark/logo_hroazh.svg" alt='logo' className={classes.logo}/>
         <div className={classes.box}>
             <Link className={classes.link}>Freatures</Link>
             <Link className={classes.link}>Team</Link>
