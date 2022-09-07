@@ -9,7 +9,7 @@ const GridSkills = () => {
             <Container>
                 <div className={classes.grid}>
                     <div className={classes.gridItem}>
-                        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218494/Recursos_Dark/icon-access-anywhere_kfgl8z.svg" alt="access" />
+                        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218494/Recursos_Dark/icon-access-anywhere_kfgl8z.svg" alt="access" />
                         <Typography variant='h6' component='h2'>Access your files, anywhere
                         </Typography>
                         <Typography variant='p' component='p'>
@@ -19,7 +19,7 @@ const GridSkills = () => {
                         </Typography>
                     </div>
                     <div className={classes.gridItem}>
-                        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218495/Recursos_Dark/icon-security_qtv9sy.svg" alt="iconSecurity" />
+                        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218495/Recursos_Dark/icon-security_qtv9sy.svg" alt="iconSecurity" />
                         <Typography variant='h6' component='h2'>  Security you can trust
 </Typography>
                         <Typography variant='p' component='p'>
@@ -28,7 +28,7 @@ const GridSkills = () => {
                         </Typography>
                     </div>
                     <div className={classes.gridItem}>
-                        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218494/Recursos_Dark/icon-collaboration_zvl004.svg" alt="Collaboration"/>
+                        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218494/Recursos_Dark/icon-collaboration_zvl004.svg" alt="Collaboration"/>
                         <Typography variant='h6' component='h2'>  Real-time collaboration
 </Typography>
                         <Typography variant='p' component='p'>
@@ -37,7 +37,7 @@ const GridSkills = () => {
                         </Typography>
                     </div>
                     <div className={classes.gridItem}>
-                        <img src="https://res.cloudinary.com/daalu/image/upload/v1650218494/Recursos_Dark/icon-any-file_r2smr8.svg" alt="iconAny" />
+                        <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218494/Recursos_Dark/icon-any-file_r2smr8.svg" alt="iconAny" />
                         <Typography variant='h6' component='h2'>  Store any type of file
 </Typography>
                         <Typography variant='p' component='p'>
