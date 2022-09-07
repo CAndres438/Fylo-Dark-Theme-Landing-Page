@@ -23,9 +23,9 @@ const CardCommentsContainer = () => {
     
     return (
         <div className={classes.root}>
-            <BasicCard profile="https://res.cloudinary.com/daalu/image/upload/v1650218497/Recursos_Dark/profile-1_jy0gic.jpg" text={person1.text} name={person1.name} title={person1.title} />
-            <BasicCard profile="https://res.cloudinary.com/daalu/image/upload/v1650218497/Recursos_Dark/profile-2_ftamuu.jpg" text={person2.text} name={person2.name} title={person2.title} />
-            <BasicCard profile="https://res.cloudinary.com/daalu/image/upload/v1650218498/Recursos_Dark/profile-3_dpk9is.jpg" text={person3.text} name={person3.name} title={person3.title} />
+            <BasicCard profile="https://res.cloudinary.com/cortiz/image/upload/v1650218497/Recursos_Dark/profile-1_jy0gic.jpg" text={person1.text} name={person1.name} title={person1.title} />
+            <BasicCard profile="https://res.cloudinary.com/cortiz/image/upload/v1650218497/Recursos_Dark/profile-2_ftamuu.jpg" text={person2.text} name={person2.name} title={person2.title} />
+            <BasicCard profile="https://res.cloudinary.com/cortiz/image/upload/v1650218498/Recursos_Dark/profile-3_dpk9is.jpg" text={person3.text} name={person3.name} title={person3.title} />
         </div>
     )
 }
