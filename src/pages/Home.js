@@ -33,7 +33,7 @@ const Home = () => {
          
           title="Banner Desktop"
         />
-      <img className={classes.img} src="https://res.cloudinary.com/daalu/image/upload/v1650218496/Recursos_Dark/illustration-intro_ocw5qm.png" alt="ilustra"/>
+      <img className={classes.img} src="https://res.cloudinary.com/cortiz/image/upload/v1650218496/Recursos_Dark/illustration-intro_ocw5qm.png" alt="ilustra"/>
       </CardActionArea>
       <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
@@ -62,7 +62,7 @@ const Home = () => {
          
           title="Banner Desktop"
         />
-      <img className={classes.img} src="https://res.cloudinary.com/daalu/image/upload/v1650218497/Recursos_Dark/illustration-stay-productive_hg5kqm.png" alt="ilustraPro"/>
+      <img className={classes.img} src="https://res.cloudinary.com/cortiz/image/upload/v1650218497/Recursos_Dark/illustration-stay-productive_hg5kqm.png" alt="ilustraPro"/>
       </CardActionArea>
       <CardContent className={classes.cardContent}>
           <Typography gutterBottom variant="h5" component="h2">
@@ -78,7 +78,7 @@ const Home = () => {
   attachments required.
 
           </Typography>
-          <Link className={classes.linkStyled}> See how Fylo works <img src="https://res.cloudinary.com/daalu/image/upload/v1650218494/Recursos_Dark/icon-arrow_za2ix1.svg" alt="arrowIcon"/></Link>
+          <Link className={classes.linkStyled}> See how Fylo works <img src="https://res.cloudinary.com/cortiz/image/upload/v1650218494/Recursos_Dark/icon-arrow_za2ix1.svg" alt="arrowIcon"/></Link>
         </CardContent>
       </div>
             <CardCommentsContainer />
